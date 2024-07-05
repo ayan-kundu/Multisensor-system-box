@@ -1,1 +1,5 @@
-
+#Communication rrquirements for UNO
+  Software serial alongside Altsoft Serial are used for communicating with RS485 and CO2 sensor respectedly
+  CO2 sensor uses UART and AltsoftSerial is used for communication while Air and soil sensors use software serial for data interchange.
+  Air and soil sensors use RS485 protocol and both of them are multidropped acrosse a Transiever names MAX485 which is connected to the arduino at one side whereas other side is attached to the sensor
+  RX TX terminals 
