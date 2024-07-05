@@ -11,7 +11,7 @@
                   In Code folder software sketch is included
 
 ### System in use: 
-It is a Prototype
+----It is a Prototype----
 ##### System Look
 ![Multisesnor system box](https://github.com/ayan-kundu/Multisensor-system-box/blob/main/Images/system.jpg)
 
