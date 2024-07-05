@@ -3,3 +3,5 @@
   CO2 sensor uses UART and AltsoftSerial is used for communication while Air and soil sensors use software serial for data interchange.
   Air and soil sensors use RS485 protocol and both of them are multidropped acrosse a Transiever names MAX485 which is connected to the arduino at one side whereas other side is attached to the sensor
   RX TX terminals 
+#Optimisation was one of the most challenging part that came out as Arduino UNO has only 2K usable memories(Static and dynamic all together)
+  Debugged version of the code is the latest and is more rubust to rough uses and stable reliable data encounter
