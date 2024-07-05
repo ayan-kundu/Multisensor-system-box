@@ -11,4 +11,4 @@
                   In Code folder software sketch is included
 
 ###System in use:
-![Multisesnor system box](http://url/to/img.png)
+![Multisesnor system box](https://github.com/ayan-kundu/Multisensor-system-box/blob/main/Images/on%20desk.jpg)
