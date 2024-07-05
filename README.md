@@ -8,3 +8,4 @@
                   Battery: 14.4V Li-ion rechargable battery 
 ## Running Software:
                   The software is customisable and optimised for the microcontroler and its computational capabilities alongside sesnor requirements for proper and robust communication 
+                  In Code folder software sketch is included
