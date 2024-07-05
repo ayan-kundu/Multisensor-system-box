@@ -10,7 +10,7 @@
                   The software is customisable and optimised for the microcontroler and its computational capabilities alongside sesnor requirements for proper and robust communication 
                   In Code folder software sketch is included
 
-### System in use:
+### System in use:(It is a Prototype)
 System Look
 ![Multisesnor system box](https://github.com/ayan-kundu/Multisensor-system-box/blob/main/Images/system.jpg)
 
