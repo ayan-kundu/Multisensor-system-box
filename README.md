@@ -9,3 +9,6 @@
 ## Running Software:
                   The software is customisable and optimised for the microcontroler and its computational capabilities alongside sesnor requirements for proper and robust communication 
                   In Code folder software sketch is included
+
+###System in use:
+![Multisesnor system box](http://url/to/img.png)
